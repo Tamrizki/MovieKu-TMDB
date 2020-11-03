@@ -10,6 +10,7 @@
     <color name="orange">#FFFF7315</color>
     <color name="blackLess">#FF222222</color>
     <color name="yellow">#FFFFCE00</color>
-    <color name="greyDark">#FF666666</color>
     <color name="grey">#FFC4C4C4</color>
+    <color name="greyDark">#FF666666</color>
+    <color name="transparant">#00000000</color>
 </resources>

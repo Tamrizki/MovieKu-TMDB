@@ -1,5 +1,7 @@
 package tam.pa.moviekuapp.model
 
+import android.os.Parcel
+import android.os.Parcelable
 import com.google.gson.annotations.SerializedName
 
 data class MovieListItem (

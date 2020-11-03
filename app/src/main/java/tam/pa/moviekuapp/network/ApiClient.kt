@@ -16,4 +16,8 @@ object ApiClient {
         .addCallAdapterFactory(RxJava2CallAdapterFactory.create())
         .build()
         .create(ApiService::class.java)
+
+    fun getUrlFlag(idCountry: String): String {
+        return "https://www.countryflags.io/$idCountry/flat/64.png"
+    }
 }
